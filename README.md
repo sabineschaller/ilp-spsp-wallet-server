@@ -4,6 +4,8 @@
 - [Usage](#usage)
 - [Environment Variables](#environment-variables)
 - [API](#api)
+  - [Create an account](#create-an-account)
+  - [Query an account payment pointer](#query-an-account-payment-pointer)
   - [Create a pull pointer](#create-a-pull-pointer)
   - [Query a pull pointer](#query-a-pull-pointer)
   - [Webhooks](#webhooks)
