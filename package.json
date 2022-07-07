@@ -24,7 +24,7 @@
     "levelup": "^4.1.0",
     "localtunnel": "^1.9.2",
     "memdown": "^4.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-fetch": "^2.6.0",
     "reduct": "^3.3.1",
     "uuid": "^3.3.2"
